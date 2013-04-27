@@ -1,0 +1,11 @@
+* pdMPKeys
+
+=pdmpkeys= lets you use the media keys on your Mac to control mpd. 
+
+** Installation
+
+** References
+
+- https://github.com/sweetfm/SweetFM/blob/master/Source/HMediaKeys.m
+- https://gist.github.com/gauravk92/546311
+- https://github.com/nevyn/SPMediaKeyTap/blob/master/SPMediaKeyTap.m

@@ -1,0 +1,11 @@
+#+TITLE: pdmpkeys
+
+* NAME
+
+pdmpkeys - control mpd with Mac OSX media keys.
+
+* SYNOPSIS
+
+* DESCRIPTION
+
+* OPTIONS
